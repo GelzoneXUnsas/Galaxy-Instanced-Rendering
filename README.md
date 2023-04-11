@@ -1,6 +1,8 @@
 # Galaxy Instanced Rendering
  create an OpenGL software that uses instanced rendering to draw a galaxy full of stars. The project will be developed to create a visually attractive picture of a galaxy while also serving as a learning tool for visualizing mass particles using instanced rendering.
 
+![](https://github.com/GelzoneXUnsas/Galaxy-Instanced-Rendering/blob/main/resources/galaxy_demo.gif)
+
 # Build
 
 Ubuntu Linux
